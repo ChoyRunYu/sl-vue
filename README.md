@@ -7,30 +7,30 @@
 ## 目录	
 
 ```
-├── build						            # 构建相关
-├── config						          # webpack配置文件
-│     ├── webpack.conf.dev.js		# webpack开发环境配置文件
+├── build						# 构建相关
+├── config						# webpack配置文件
+│	├── webpack.conf.dev.js		# webpack开发环境配置文件
 │	├──	webpack.conf.prod.js	# webpack生产环境配置文件
-│	└── webpack.config.js		  # webpack默认配置文件
-├── dist						            # 打包后目录
-├── public						          # 静态资源
-│	    │── favicon.png           # favicon图标
-│  └── index.html  			    # html模板
-├── src							            # 源代码
-|     ├── api						        # 所有请求
-│	 ├──	assets					      # 主题 字体等静态资源
-│	 ├──	components				    # 全局公用组件
-│	 ├──	router					      # vue路由
-│	 ├──	store					        # 全局 store管理
-│	 ├──	utils					        # 全局工具类
-│  ├──	views					        # views所有页面
-│	 ├──	app.vue					      # 入口页面
-│	 ├── main.js					      # 入口文件 加载组件 初始化等
-│	 └── setting.js				    # 网站信息配置我呢间
-├── package.json				        # package.json
-├── package-lock.json			      # package-lock.json
-├── vue.config.js				        # vue-cli 配置
-└── .babelrc					          # babel-loader 配置
+│	└── webpack.config.js		# webpack默认配置文件
+├── dist						# 打包后目录
+├── public						# 静态资源
+│	│── favicon.png            	# favicon图标
+│   └── index.html  			# html模板
+├── src							# 源代码
+│	├── api						# 所有请求
+│	├──	assets					# 主题 字体等静态资源
+│	├──	components				# 全局公用组件
+│	├──	router					# vue路由
+│	├──	store					# 全局 store管理
+│	├──	utils					# 全局工具类
+│	├──	views					# views所有页面
+│	├──	app.vue					# 入口页面
+│	├── main.js					# 入口文件 加载组件 初始化等
+│	└── setting.js				# 网站信息配置我呢间
+├── package.json				# package.json
+├── package-lock.json			# package-lock.json
+├── vue.config.js				# vue-cli 配置
+└── .babelrc					# babel-loader 配置
 ```
 
 ## 安装
