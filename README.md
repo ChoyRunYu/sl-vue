@@ -11,11 +11,11 @@
 ├── config						# webpack配置文件
 │	├── webpack.conf.dev.js		# webpack开发环境配置文件
 │	├──	webpack.conf.prod.js	# webpack生产环境配置文件
-│ └── webpack.config.js		# webpack默认配置文件
+│   └── webpack.config.js		# webpack默认配置文件
 ├── dist						# 打包后目录
 ├── public						# 静态资源
-│ ├── favicon.png            	# favicon图标
-│ └── index.html  			# html模板
+│   ├── favicon.png            	# favicon图标
+│   └── index.html  			# html模板
 ├── src							# 源代码
 │	├── api						# 所有请求
 │	├──	assets					# 主题 字体等静态资源
