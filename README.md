@@ -17,7 +17,7 @@
 │	    │── favicon.png           # favicon图标
 │     └── index.html  			    # html模板
 ├── src							            # 源代码
-│	    ├── api						        # 所有请求
+|     ├── api						        # 所有请求
 │	    ├──	assets					      # 主题 字体等静态资源
 │	    ├──	components				    # 全局公用组件
 │	    ├──	router					      # vue路由
